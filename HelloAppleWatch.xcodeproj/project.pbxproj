@@ -15,6 +15,7 @@
 		674D465B27BCFF91004CEE23 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674D465A27BCFF91004CEE23 /* ComplicationController.swift */; };
 		674D465D27BCFF92004CEE23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 674D465C27BCFF92004CEE23 /* Assets.xcassets */; };
 		674D466027BCFF92004CEE23 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 674D465F27BCFF92004CEE23 /* Preview Assets.xcassets */; };
+		674D469327BD386B004CEE23 /* EmojiSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 674D469227BD386B004CEE23 /* EmojiSentence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		674D465C27BCFF92004CEE23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		674D465F27BCFF92004CEE23 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		674D466127BCFF92004CEE23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		674D469227BD386B004CEE23 /* EmojiSentence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EmojiSentence.swift; path = "../../../../Downloads/wos-materials-editions-1.0/01-hello-apple-watch/final/HelloAppleWatch/HelloAppleWatch WatchKit Extension/EmojiSentence.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				674D465627BCFF91004CEE23 /* ContentView.swift */,
+				674D469227BD386B004CEE23 /* EmojiSentence.swift */,
 				674D465827BCFF91004CEE23 /* HelloAppleWatchApp.swift */,
 				674D465A27BCFF91004CEE23 /* ComplicationController.swift */,
 				674D465C27BCFF92004CEE23 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 				674D465727BCFF91004CEE23 /* ContentView.swift in Sources */,
 				674D465927BCFF91004CEE23 /* HelloAppleWatchApp.swift in Sources */,
 				674D465B27BCFF91004CEE23 /* ComplicationController.swift in Sources */,
+				674D469327BD386B004CEE23 /* EmojiSentence.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
